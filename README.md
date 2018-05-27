@@ -1,14 +1,14 @@
-# SCPSL Server Installation Script (Ubuntu 16.04)
-Linux installation script for SCP SL server installation.
+# SCPSL Server Update Script (Ubuntu 16.04)
+Linux update script for SCP SL server installation. Manual configuration of the config file is still needed, this more for updating the server.
 
 ## To Use:
-- Make sure scpsl-server.sh, Module_URLs.txt and config.txt are in a folder together
-- Give scpsl-server.sh executeable permissions with `chmod +x ./scpsl-server.sh`
-- Run `./scpsl-server.sh`
-- The script will ask for a server name and your steam login.
+- Make sure update_server.sh and Module_URLs.txt are in a folder together
+- Give update_server.sh executeable permissions with `chmod +x ./update_server.sh`
+- Run `./update_server.sh`
+- The script will ask for your steam login.
 - After a while it will have installed the SCP SL server!
 - You can then choose to also install ServerMod and MultiAdmin
 - Viola!
 
-## Note on manual installation:
-If you decide to do installation manually, do not use these files. The files provided here are purposefully incomplete so that the installer can complete them for you.
+## Note on launching the server:
+Install TMUX. Use TMUX to run `mono MultiAdmin.exe` in the correct folder.
