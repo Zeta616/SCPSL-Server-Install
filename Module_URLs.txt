@@ -1,2 +1,4 @@
-https://github.com/Grover-c13/MultiAdmin/releases/download/SM1.7.4/Assembly-CSharp.dll
-https://github.com/Grover-c13/MultiAdmin/releases/download/MA1.3.2%2FSM1.7.2/MultiAdmin.exe
+https://github.com/Grover-c13/Smod2/releases/download/2.1.1/Assembly-CSharp.dll
+https://github.com/Grover-c13/Smod2/releases/download/2.1.1/Smod2.dll
+https://github.com/Grover-c13/MultiAdmin/releases/download/2.0.0/MultiAdmin.exe
+https://github.com/Grover-c13/MultiAdmin/releases/download/2.0.0/YamlDotNet.dll
