@@ -1,4 +1,4 @@
-https://github.com/Grover-c13/Smod2/releases/download/2.1.1/Assembly-CSharp.dll
-https://github.com/Grover-c13/Smod2/releases/download/2.1.1/Smod2.dll
-https://github.com/Grover-c13/MultiAdmin/releases/download/2.0.0/MultiAdmin.exe
+https://cdn.discordapp.com/attachments/422020715785617428/450479730651561984/Assembly-CSharp.dll
+https://cdn.discordapp.com/attachments/422020715785617428/450479738373406725/Smod2.dll
+https://github.com/Grover-c13/MultiAdmin/releases/download/2.0.1/MultiAdmin.exe
 https://github.com/Grover-c13/MultiAdmin/releases/download/2.0.0/YamlDotNet.dll
