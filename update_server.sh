@@ -22,11 +22,12 @@ then
 	mkdir "./Backup"
 	mv "/home/$USER/.steam/SteamApps/common/SCP Secret Laboratory/SCPSL_Data/Managed/Assembly-CSharp.dll" "./Backup/Assembly-CSharp.dll"
 	mv "./Assembly-CSharp.dll" "/home/$USER/.steam/SteamApps/common/SCP Secret Laboratory/SCPSL_Data/Managed/Assembly-CSharp.dll"
-  mv "./Smod2.dll" "/home/$USER/.steam/SteamApps/common/SCP Secret Laboratory/SCPSL_Data/Managed/Smod2.dll"
+	mv "./Assembly-CSharp-firstpass.dll" "/home/$USER/.steam/SteamApps/common/SCP Secret Laboratory/SCPSL_Data/Managed/Assembly-CSharp.dll"
+  	mv "./Smod2.dll" "/home/$USER/.steam/SteamApps/common/SCP Secret Laboratory/SCPSL_Data/Managed/Smod2.dll"
 	echo "Backup of Assembly-CSharp.dll made"
 	echo "Installing MultiAdmin..."
 	mv "./MultiAdmin.exe" "/home/$USER/.steam/SteamApps/common/SCP Secret Laboratory/MultiAdmin.exe"
-  mv "./YamlDotNet.dll" "/home/$USER/.steam/SteamApps/common/SCP Secret Laboratory/YamlDotNet.dll"
+  	mv "./YamlDotNet.dll" "/home/$USER/.steam/SteamApps/common/SCP Secret Laboratory/YamlDotNet.dll"
 fi
 chmod +x start_server.sh
 echo "Server installed! Use ./start_server.sh to start it!"
